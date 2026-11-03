@@ -1,0 +1,108 @@
+1.
+List all possible outcomes (sample space) for rolling a standard six-sided die and flipping a coin at the same time. 
+Write your answer as a list of ordered pairs.
+
+two times  experiement
+
+die = 1,2,3,4,5,6
+coin = H ,T
+
+Total possible outcomes:
+                      =  6/2     =  12
+12 total possible outcomes
+
+
+Sample Space:
+
+[(1,H), (1,T),
+(2,H), (2,T),
+(3,H), (3,T),
+(4,H), (4,T),
+(5,H), (5,T),
+(6,H), (6,T)]
+
+2.
+Suppose you have a deck of 10 cards numbered 1 to 10. Calculate the classical probability of drawing a card with an even number.
+ Show your calculation steps.
+
+Cards numbered from 1 to 10:
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+Total number of cards = 10
+
+Even numbers are:
+
+2, 4, 6, 8, 10
+
+Favourable outcomes = 5
+
+p(A) = Favourable outcomes/  total oooutcomes
+     =  5/ 10 
+     = 0.5 
+    
+percentage = 0.5* 100 = 50% 
+   
+Interpretation: There are 5 even-numbered cards out of 10 cards. Therefore, the probability of drawing an even-numbered card 
+   is 0.5 or 50%.
+
+
+3. 
+In a playlist of 8 songs on Spotify, 3 are by Arijit Singh. If you shuffle and play one random song, what is the probability
+ that it is NOT by Arijit Singh? Show your working.
+
+ Total songs = 8
+ arjit singh song = 3
+
+ probability of not songs by arijit sing:
+   
+  p(Not Arjit)= 1-3/8   
+              = 5/8
+              = 0.625
+
+Interpretation: Out of 8 songs, 5 songs are not by Arijit Singh. Therefore, there is a 62.5% probability of randomly selecting a
+ song that is not by Arijit Singh.
+
+4.
+A Zomato user places an order. The probability they order Pizza is 0.3, and the probability they order Burger is 0.4. If the
+probability they order both is 0.1, use the addition rule to find the probability the user orders Pizza or Burger.
+<br><br><em><strong>Hint:</strong> P(A or B) = P(A) + P(B) - P(A and B)</em>
+
+probability of pizza P(A) = 0.3
+probability of burger P(B)= 0.4
+probability of both P(A and B)= 0.1
+
+probability the user orders Pizza or Burger:
+ 
+P(A or B) = P(A) + P(B) - p(A and B)
+          = 0.3 + 0.4 - 0.1
+          = 0.6
+percentage = 0.6*100  = 60%
+
+interpretation = The probability that a Zomato user orders either Pizza or Burger is 0.6 or 60%. This means there is a 60% chance that the
+user will order Pizza, Burger, or both.
+
+5.
+A Flipkart user is browsing electronics. The probability they add a phone to cart is 0.2. If you know they are interested in 
+mobiles, the probability rises to 0.5. Briefly explain in your own words what this conditional probability means, using this 
+scenario ye sare qustions mai jo solve karne ko bola hai vo solve kijiye step by step
+
+conditional probability:
+
+Probability of adding a phone to cart = 0.2 (20%)
+Probability of adding a phone to cart when interested in mobiles = 0.5 (50%)
+
+formula :  P(A/B) = P(A and B)
+               P(B)
+
+          p(A/B) = 0.5
+
+percentage = 0.5*100 = 50% 
+
+
+Interpretation:
+
+The probability of a Flipkart user adding a phone to the cart is 20% generally. However, if the user is interested in mobiles, 
+the probability increases to 50%. This shows that users interested in mobiles are more likely to add a phone to their cart. 
+Flipkart can use this information to recommend mobile phones and related products to interested customers.
+
